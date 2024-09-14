@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iadawa.github.io/kQY/sitemap.kQY.gz
